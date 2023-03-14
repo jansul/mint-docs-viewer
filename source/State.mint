@@ -40,7 +40,6 @@ component State {
     <div::base>
       <div::type>
         <{ type }>
-
         <div::equals>"="</div>
       </div>
 

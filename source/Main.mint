@@ -19,7 +19,6 @@ component Main {
   get main : Html {
     <div::base>
       <Tabs/>
-
       <{ content }>
     </div>
   }

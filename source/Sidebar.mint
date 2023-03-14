@@ -5,7 +5,6 @@ component Sidebar {
   style base {
     background: #F5F5F5;
     color: #444;
-
     padding: 20px;
     padding-right: 40px;
   }
